@@ -11,6 +11,4 @@ src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
 src-git chajian2 https://github.com/kenzok8/openwrt-packages
-src-git chajian1 https://github.com/sirpdboy/sirpdboy-package
 src-git chajian3 https://github.com/jerrykuku/openwrt-package
-src-git dockerman https://github.com/lisaac/luci-app-dockerman
