@@ -12,6 +12,5 @@ src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
 src-git chajian2 https://github.com/kenzok8/openwrt-packages
 src-git chajian1 https://github.com/sirpdboy/sirpdboy-package
-src-git koolproxy https://github.com/immortalwrt-collections/luci-app-koolproxy-2
-src-git https://github.com/jerrykuku/openwrt-package
-src-git https://github.com/lisaac/luci-app-dockerman
+src-git chajin3 https://github.com/jerrykuku/openwrt-package
+src-git dockerman https://github.com/lisaac/luci-app-dockerman
