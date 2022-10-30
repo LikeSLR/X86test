@@ -6,9 +6,9 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git helloworld https://github.com/fw876/helloworld
-src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
-src-git chajian2 https://github.com/kenzok8/openwrt-packages
-src-git chajian3 https://github.com/jerrykuku/openwrt-package
+src-git helloworld https://github.com/fw876/helloworld.git
+src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
+src-git chajian2 https://github.com/kenzok8/openwrt-packages.git
+src-git chajian3 https://github.com/jerrykuku/openwrt-package.git
