@@ -13,5 +13,3 @@ src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
 src-git chajian2 https://github.com/kenzok8/openwrt-packages.git
 src-git chajian3 https://github.com/jerrykuku/openwrt-package.git
 src-git qos https://github.com/AlexZhuo/luci-app-bandwidthd.git
-src-git ikoolproxy2 https://github.com/project-lede/luci-app-godproxy.git
-src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome.git
